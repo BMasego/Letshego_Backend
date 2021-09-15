@@ -1,1 +1,20 @@
 ![retail](https://user-images.githubusercontent.com/90456162/133451070-9286a6c1-d6e6-4bd2-9c83-f070e91d1794.PNG)
+Wrote a Spring Boot Java application with test cases, which exposes an API such that given a 
+bill, it finds the net payable amount. Noted the stress is on object oriented approach 
+and test coverage. User interface is not specified, only an API exposed.
+To view the UML Class Diagram Go To:
+    >>>Issues Tab
+    >>>Then CLick New Issues Button
+    >>Then CLick Preview right next to Write in the title category
+    >The Uploaded UML Class Diagram Image will display
+API documentation used ContentFul procedures below defined
+
+Authentication : You access the API securely via HTTPS, and it will be available to clients authenticating with an access token.
+Resource IDs : When creating resources, you can specify an ID or let the API generate a random ID for you.
+Updating content : Contentful doesn't merge changes made to content, so when updating content, you need to send the entire body of an entry.
+
+Sample of Rate Limiting API's
+
+X-Contentful-RateLimit-Reset: 0
+X-Contentful-RateLimit-Second-Limit: 7
+X-Contentful-RateLimit-Second-Remaining: 9
