@@ -1,5 +1,4 @@
-# Letshego_Backend
-The Retail Store Discounts
+# The Retail Store Discounts
 
 ## Description
 
