@@ -44,19 +44,7 @@ To execute the unit tests against the business logic service classes please run 
 
 ```bash
 mvn test
-```
-
-## Code coverage
-
-The code coverage report:
-
-
-| Package | Coverage |
-|---|---|
-| all classes | 93.00% |
-| src/main/java | 87.50% |
-| src/main/java | 96.40% | 
-
+``` 
 
 ## Using
 
